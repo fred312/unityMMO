@@ -1,0 +1,20 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl Beta_Body_MAT
+Ka 0.000000 0.000000 0.000000
+Kd 0.371822 0.751230 0.909100
+Ks 0.289260 0.289260 0.289260
+illum 2
+Ns 22.247999
+Tr 1.000000
+
+newmtl Beta_Joints_MAT
+Ka 0.000000 0.000000 0.000000
+Kd 0.046288 0.046288 0.046288
+Ks 0.156620 0.548481 0.764000
+illum 2
+Ns 20.000000
+Tr 1.000000
